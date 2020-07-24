@@ -1,2 +1,2 @@
-# SVM
-Contains implementation of SVM from scratch in Python3
+# SVM Tree
+Implementation of SVM Tree, a clustering algorithm.<br> Also contains an implimentation of SVM from scratch.
